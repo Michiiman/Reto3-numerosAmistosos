@@ -1,0 +1,14 @@
+C:\Users\APT01-36\Desktop\PushUp\numerosAmistosos\bin\Debug\net7.0\numerosAmistosos.exe
+C:\Users\APT01-36\Desktop\PushUp\numerosAmistosos\bin\Debug\net7.0\numerosAmistosos.deps.json
+C:\Users\APT01-36\Desktop\PushUp\numerosAmistosos\bin\Debug\net7.0\numerosAmistosos.runtimeconfig.json
+C:\Users\APT01-36\Desktop\PushUp\numerosAmistosos\bin\Debug\net7.0\numerosAmistosos.dll
+C:\Users\APT01-36\Desktop\PushUp\numerosAmistosos\bin\Debug\net7.0\numerosAmistosos.pdb
+C:\Users\APT01-36\Desktop\PushUp\numerosAmistosos\obj\Debug\net7.0\numerosAmistosos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\APT01-36\Desktop\PushUp\numerosAmistosos\obj\Debug\net7.0\numerosAmistosos.AssemblyInfoInputs.cache
+C:\Users\APT01-36\Desktop\PushUp\numerosAmistosos\obj\Debug\net7.0\numerosAmistosos.AssemblyInfo.cs
+C:\Users\APT01-36\Desktop\PushUp\numerosAmistosos\obj\Debug\net7.0\numerosAmistosos.csproj.CoreCompileInputs.cache
+C:\Users\APT01-36\Desktop\PushUp\numerosAmistosos\obj\Debug\net7.0\numerosAmistosos.dll
+C:\Users\APT01-36\Desktop\PushUp\numerosAmistosos\obj\Debug\net7.0\refint\numerosAmistosos.dll
+C:\Users\APT01-36\Desktop\PushUp\numerosAmistosos\obj\Debug\net7.0\numerosAmistosos.pdb
+C:\Users\APT01-36\Desktop\PushUp\numerosAmistosos\obj\Debug\net7.0\numerosAmistosos.genruntimeconfig.cache
+C:\Users\APT01-36\Desktop\PushUp\numerosAmistosos\obj\Debug\net7.0\ref\numerosAmistosos.dll
